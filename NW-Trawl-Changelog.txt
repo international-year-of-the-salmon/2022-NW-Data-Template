@@ -1,6 +1,35 @@
+# Changelog for 2022-NW-Data
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+All notable changes to the IYS2022_NW_Data will be documented in this file. This file is the latest version.
+
 Changelog for 2022-NW-Data-Template
 
-The original data template file is stored in the Archived folder (IYS2022_NW_Data_6-21-2022). 
+The original data template file (IYS2022_NW_Data_6-21-2022) is stored in the Archived folder, along with older versions.
+The changes made between versions are documented below. 
 
-Changes made from original to the latest version (Date: 6/21/2022, mod: Tim van der Stap)
-1. Duplicate `Catch ID` found in the data file. Changed the Catch ID for 'Salps unident.' from NW2201-NW-2-13-CanTrawl-1 to NW2201-NW-2-13-CanTrawl-18.
+## IYS2022_NW_Data - 2022-7-20, mod: Tim van der Stap, Andrew Dimond (NOAA)
+
+### Added
+- In the Sampling_Event_Info tab, three new rows are created to parse out previously identified duplicate Station_Event_IDs. These new IDs relate to a separate tow at the same station.
+- In the Catch_Info tab, new rows are added to specify catches to the correct tow at each station. 
+
+### Changed
+- In the Sampling_Event_Info tab, the cruise name has been changed to IYS2022, and consequently in Station Event IDs, "NW2201" in the string has been replaced with "IYS2022".
+- In the Catch_Info tab, for Station Event IDs and Catch IDs, "NW2201" in the string has been replaced with "IYS2022". 
+- In the Specimen_Info tab, for Station Event IDs, Catch IDs and Specimen IDs, "NW2201" in the string has been replaced with "IYS2022".
+
+### Removed
+- In the Specimen_Info tab, double dashes in the Specimen ID have been replaced with a single dash (i.e. NW2201-NW-2-10-CanTrawl-12--11 is now IYS2022-NW-2-10-CanTrawl-12-11). 
+
+
+## [1.0] - 2022-06-21, mod: Tim van der Stap
+
+### Added
+
+### Changed
+- Duplicate `Catch ID` found in the data file. Changed the Catch ID for 'Salps unident.' from NW2201-NW-2-13-CanTrawl-1 to NW2201-NW-2-13-CanTrawl-18.
+
+### Removed
