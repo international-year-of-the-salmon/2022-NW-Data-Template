@@ -1,14 +1,16 @@
-# Changelog for 2022-NW-Data
+# Changelog for 2022-NW-Data-Template
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+All notable changes to the IYS2022_NW_Data will be documented in this file.
 
-All notable changes to the IYS2022_NW_Data will be documented in this file. This file is the latest version.
-
-Changelog for 2022-NW-Data-Template
+## Notes:
 
 The original data template file (IYS2022_NW_Data_6-21-2022) is stored in the original_data folder.
 The changes made between versions / releases are documented below. 
+
+## Unreleased 2022-07-27
+
+### Changed
+- `cruise_name` went from IYS2022 and increased as a result of someone dragging a column in excel and the integer value increasing with each cell. The `cruise_name` is now always IYS2022
 
 ## [1.0] 2022-7-20, mod: Tim van der Stap, Andrew Dimond (NOAA)
 
