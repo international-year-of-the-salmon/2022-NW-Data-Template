@@ -5,10 +5,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 All notable changes to the IYS2022_NW_Data will be documented in this file. This file is the latest version.
 
-Changelog for 2022-NW-Data-Template
-
-The original data template file (IYS2022_NW_Data_6-21-2022) is stored in the original_data folder.
+The original data template file (IYS2022_NW_Data_6-21-2022) is stored in a subdirectory ('archived') of the original_data folder.
 The changes made between versions / releases are documented below. 
+
+## [1.1] 2022-11-2, mod: Tim van der Stap
+
+On October 18th, we received a new version from Andrew Dimond, addressing some concerns that were highlighted from the previous version. This new version (IYS2022_NW_Data_AD_Reformatted.xlsx) 
+has been stored in the original_data folder. The previous version (IYS2022_NW_Data_6-21-2022) will be stored in a sub-folder ('archived') herein.
+
+The latest version we received (IYS2022_NW_Data_AD_Reformatted.xlsx) also included the changes made to issues identified for the older version (IYS2022_NW_Data_6-21-2022.xlsx).
+
+The changes listed for version [1.0] were made to the IYS2022_NW_Data_6-21-2022.xlsx file. 
+The changes listed for version [1.1] have been made to the IYS2022_NW_Data_AD_Reformatted.xlsx file and are found below. 
+These changes are included in the IYS2022_NW_Data.xlsx file, which contains the latest information.
+
+### Added
+
+### Changed
+- In tab 'Sampling_Event_Info' the Cruise_Name has been changed to always reflect 'IYS2022'.
+
+### Removed
 
 ## [1.0] 2022-7-20, mod: Tim van der Stap, Andrew Dimond (NOAA)
 
