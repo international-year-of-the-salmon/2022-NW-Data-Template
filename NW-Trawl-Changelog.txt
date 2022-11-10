@@ -1,22 +1,19 @@
 # Changelog for 2022-NW-Data-Template
 
-All notable changes to the IYS2022_NW_Data will be documented in this file.
-
-<<<<<<< HEAD
 All notable changes to the IYS2022_NW_Data will be documented in this file. This file is the latest version.
 
 The original data template file (IYS2022_NW_Data_6-21-2022) is stored in a subdirectory ('archived') of the original_data folder.
 The changes made between versions / releases are documented below. 
 
-## [1.1] 2022-11-2, mod: Tim van der Stap
+## [1.1] 2022-11-9, mod: Tim van der Stap
 
-On October 18th, we received a new version from Andrew Dimond, addressing some concerns that were highlighted from the previous version. This new version (IYS2022_NW_Data_AD_Reformatted.xlsx) 
+On November 9th, we received the latest version from Andrew Dimond, addressing some concerns that were highlighted from the previous version. This new version (IYS_NW2201_Dimond_CrestedBigscaleUpdate.xlsx) 
 has been stored in the original_data folder. The previous version (IYS2022_NW_Data_6-21-2022) will be stored in a sub-folder ('archived') herein.
 
-The latest version we received (IYS2022_NW_Data_AD_Reformatted.xlsx) also included the changes made to issues identified for the older version (IYS2022_NW_Data_6-21-2022.xlsx).
+The latest version we received (IYS_NW2201_Dimond_CrestedBigscaleUpdate.xlsx) also included the changes made to issues identified for the older version (IYS2022_NW_Data_6-21-2022.xlsx).
 
 The changes listed for version [1.0] were made to the IYS2022_NW_Data_6-21-2022.xlsx file. 
-The changes listed for version [1.1] have been made to the IYS2022_NW_Data_AD_Reformatted.xlsx file and are found below. 
+The changes listed for version [1.1] have been made to the IYS_NW2201_Dimond_CrestedBigscaleUpdate.xlsx file and are found below. 
 These changes are included in the IYS2022_NW_Data.xlsx file, which contains the latest information.
 
 ### Added
@@ -25,17 +22,6 @@ These changes are included in the IYS2022_NW_Data.xlsx file, which contains the 
 - In tab 'Sampling_Event_Info' the Cruise_Name has been changed to always reflect 'IYS2022'.
 
 ### Removed
-=======
-## Notes:
-
-The original data template file (IYS2022_NW_Data_6-21-2022) is stored in the original_data folder.
-The changes made between versions / releases are documented below. 
-
-## Unreleased 2022-07-27
-
-### Changed
-- `cruise_name` went from IYS2022 and increased as a result of someone dragging a column in excel and the integer value increasing with each cell. The `cruise_name` is now always IYS2022
->>>>>>> 96c83d40f21c3e8ee9329ce73109545dcda08627
 
 ## [1.0] 2022-7-20, mod: Tim van der Stap, Andrew Dimond (NOAA)
 
