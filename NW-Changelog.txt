@@ -1,0 +1,42 @@
+# Changelog for 2022-NW-Data-Template
+
+All notable changes to the IYS2022_NW_Data will be documented in this file. This file is the latest version.
+
+The original data template file (IYS2022_NW_Data_6-21-2022) is stored in a subdirectory ('archived') of the original_data folder.
+The changes made between versions / releases are documented below. 
+
+## [1.1] 2022-11-9, mod: Tim van der Stap
+
+On November 9th, we received the latest version from Andrew Dimond, addressing some concerns that were highlighted from the previous version. This new version (IYS_NW2201_Dimond_CrestedBigscaleUpdate.xlsx) 
+has been stored in the original_data folder. The previous version (IYS2022_NW_Data_6-21-2022) will be stored in a sub-folder ('archived') herein.
+
+The latest version we received (IYS_NW2201_Dimond_CrestedBigscaleUpdate.xlsx) also included the changes made to issues identified for the older version (IYS2022_NW_Data_6-21-2022.xlsx).
+
+The changes listed for version [1.0] were made to the IYS2022_NW_Data_6-21-2022.xlsx file. 
+The changes listed for version [1.1] have been made to the IYS_NW2201_Dimond_CrestedBigscaleUpdate.xlsx file and are found below. 
+These changes are included in the IYS2022_NW_Data.xlsx file, which contains the latest information.
+
+### Added
+
+### Changed
+- In tab 'Sampling_Event_Info' the Cruise_Name has been changed to always reflect 'IYS2022'.
+- In the Catch and Specimen tab: Poromitra crassiceps changed to Poromitra curilensis (as per Jim Murphy). 
+
+### Removed
+
+## [1.0] 2022-7-20, mod: Tim van der Stap, Andrew Dimond (NOAA)
+
+** Please note that the changes, additions and removals listed below have been done to the original file (stored in the original_data folder), prior to releasing version 1.0 **
+
+### Added
+- In the Sampling_Event_Info tab, three new rows are created to parse out previously identified duplicate Station_Event_IDs. These new IDs relate to a separate tow at the same station.
+- In the Catch_Info tab, new rows are added to specify catches to the correct tow at each station. 
+
+### Changed
+- Duplicate `Catch ID` found in the data file. Changed the Catch ID for 'Salps unident.' from NW2201-NW-2-13-CanTrawl-1 to NW2201-NW-2-13-CanTrawl-18.
+- In the Sampling_Event_Info tab, the cruise name has been changed to IYS2022, and consequently in Station Event IDs, "NW2201" in the string has been replaced with "IYS2022".
+- In the Catch_Info tab, for Station Event IDs and Catch IDs, "NW2201" in the string has been replaced with "IYS2022". 
+- In the Specimen_Info tab, for Station Event IDs, Catch IDs and Specimen IDs, "NW2201" in the string has been replaced with "IYS2022".
+
+### Removed
+- In the Specimen_Info tab, double dashes in the Specimen ID have been replaced with a single dash (i.e. NW2201-NW-2-10-CanTrawl-12--11 is now IYS2022-NW-2-10-CanTrawl-12-11). 
