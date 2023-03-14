@@ -5,7 +5,30 @@ All notable changes to the IYS2022_NW_Data will be documented in this file. This
 The original data template file (IYS2022_NW_Data_6-21-2022) is stored in a subdirectory ('archived') of the original_data folder.
 The changes made between versions / releases are documented below. 
 
-## [1.1] 2022-11-9, mod: Tim van der Stap
+## [1.2] 2023-03-13, mod: Tim van der Stap, Andrew Dimond (NOAA). 
+
+On March 13, 2023 we received a new version from Andrew Dimond. This new version (IYS2022_Museum_Comments_Update.xlsx) has been stored in the original_data folder. The previous version has been renamed to IYS2022_NW_Data_v1.1.xlsx and will be stored in a sub-folder ('archived') herein. 
+
+The changes listed for version [1.2] below were included in IYS2022_Museum_Comments_Update.xlsx. These changes have been included in the IYS2022_NW_Data.xlsx file, which contains the latest information.
+
+### Added
+- In the tab 'Specimen_Info' a column 'Comments' is added.
+- In the tab 'Specimen_Info' a column 'Marks_scars' is added.
+- In the tab 'Specimen_Info' a columns 'institutionCode', 'institutionID' and 'collectionCode' were added to indicate where specimen samples were preserved and under which collection code.
+- In the tab 'Catch_Info' added a catch record to indicate they caught Rex Sole instead of Northern Lampfish.
+- In the tab 'Specimen_Info' columns 'ScaleCard_Position' and 'Scale_Pref_Code' were added to provide information on scale storage for specimens that had scales collected. The Scale_Pref_Code reflects if scales came from preferred (P) or non-preferred (NP) regions of salmon.
+
+### Changed
+- In the tab 'Specimen_Info' the Alternate IDs have been fixed to reflect original recording of specimen ID. The column no longer contains duplicate values.
+- In the tab 'Specimen_Info' corrected the ID of one of our fish sent to UAF. It was initially recorded as a Rex Sole but somehow it went into CLAMS as a Northern Lampfish. The corrected ID now shows Rex Sole.
+- In the tab 'Data Dictionary', the data definitions are updated with new fields.
+- In the tab 'Specimen_Info' the count_method for catch was corrected to accurately reflect whether this was the 'total', 'count' or 'subsample'. 
+
+### Removed
+- In the tab 'Specimen_Info' the FatMeter 0 values were removed.
+- In the tab 'Specimen_Info' an orphaned chum specimen record was removed. This was a specimen record with 0 data associated with it. 
+
+## [1.1] 2022-11-9, mod: Tim van der Stap, Andrew Dimond (NOAA)
 
 On November 9th, we received the latest version from Andrew Dimond, addressing some concerns that were highlighted from the previous version. This new version (IYS_NW2201_Dimond_CrestedBigscaleUpdate.xlsx) 
 has been stored in the original_data folder. The previous version (IYS2022_NW_Data_6-21-2022) will be stored in a sub-folder ('archived') herein.
