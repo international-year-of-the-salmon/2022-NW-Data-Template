@@ -13,6 +13,7 @@ The changes listed for version [1.2] below were included in IYS2022_Museum_Comme
 
 ### Added
 - In the tab 'Specimen_Info' a column 'Comments' is added.
+- In the tab 'Specimen_Info' a column 'Barcode' is added. The Barcode is a unique number assigned to most specimens that are collected for sampling at sea.
 - In the tab 'Specimen_Info' a column 'Marks_scars' is added.
 - In the tab 'Specimen_Info' a columns 'institutionCode', 'institutionID' and 'collectionCode' were added to indicate where specimen samples were preserved and under which collection code.
 - In the tab 'Catch_Info' added a catch record to indicate they caught Rex Sole instead of Northern Lampfish.
