@@ -24,6 +24,7 @@ The changes listed for version [1.2] below were included in IYS2022_Museum_Comme
 - In the tab 'Specimen_Info' corrected the ID of one of our fish sent to UAF. It was initially recorded as a Rex Sole but somehow it went into CLAMS as a Northern Lampfish. The corrected ID now shows Rex Sole.
 - In the tab 'Data Dictionary', the data definitions are updated with new fields.
 - In the tab 'Specimen_Info' the count_method for catch was corrected to accurately reflect whether this was the 'total', 'count' or 'subsample'. 
+- In the tab 'Sampling_Event_Info', the sampling duration in row 62 (Station_Event_ID: IYS2022-NW-2-20-Bongo) was changed from 262 to 22.
 
 ### Removed
 - In the tab 'Specimen_Info' the FatMeter 0 values were removed.
