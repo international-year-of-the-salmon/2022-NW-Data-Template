@@ -25,6 +25,28 @@ The changes listed for version [1.2] below were included in IYS2022_Museum_Comme
 - In the tab 'Data Dictionary', the data definitions are updated with new fields.
 - In the tab 'Specimen_Info' the count_method for catch was corrected to accurately reflect whether this was the 'total', 'count' or 'subsample'. 
 - In the tab 'Sampling_Event_Info', the sampling duration in row 62 (Station_Event_ID: IYS2022-NW-2-20-Bongo) was changed from 262 to 22.
+- In the tab 'Specimen_Info' catch_id IYS2022-NW-2-6-CanTrawl-8 was changed to IYS2022-NW-2-6-CanTrawl2-1, and station_event_id and specimen_id changed to match respectively.
+- In the tab 'Specimen_Info' catch_id IYS2022-NW-2-6-CanTrawl-9 was changed to IYS2022-NW-2-6-CanTrawl2-2, and station_event_id and specimen_id changed to match respectively.
+- In the tab 'Specimen_Info' catch_id IYS2022-NW-2-6-CanTrawl-10 was changed to IYS2022-NW-2-6-CanTrawl2-3, and station_event_id and specimen_id changed to match respectively.
+- In the tab 'Specimen_Info' catch_id IYS2022-NW-2-6-CanTrawl-11 was changed to IYS2022-NW-2-6-CanTrawl2-4, and station_event_id and specimen_id changed to match respectively.
+- In the tab 'Specimen_Info' catch_id IYS2022-NW-2-6-CanTrawl-12 was changed to IYS2022-NW-2-6-CanTrawl2-5, and station_event_id and specimen_id changed to match respectively.
+- In the tab 'Specimen_Info' catch_id IYS2022-NW-2-6-CanTrawl-13 was changed to IYS2022-NW-2-7-CanTrawl2-6, and station_event_id and specimen_id changed to match respectively.
+- In the tab 'Specimen_Info' catch_id IYS2022-NW-2-6-CanTrawl-14 was changed to IYS2022-NW-2-6-CanTrawl2-7, and station_event_id and specimen_id changed to match respectively.
+- In the tab 'Specimen_Info' catch_id IYS2022-NW-2-6-CanTrawl-16 was changed to IYS2022-NW-2-6-CanTrawl2-9, and station_event_id and specimen_id changed to match respectively.
+- In the tab 'Specimen_Info' catch_id IYS2022-NW-2-6-CanTrawl-17 was changed to IYS2022-NW-2-6-CanTrawl2-10, and station_event_id and specimen_id changed to match respectively.
+- In the tab 'Specimen_Info' catch_id IYS2022-NW-2-6-CanTrawl-18 was changed to IYS2022-NW-2-6-CanTrawl2-11, and station_event_id and specimen_id changed to match respectively.
+- In the tab 'Specimen_Info' catch_id IYS2022-NW-2-6-CanTrawl-20 was changed to IYS2022-NW-2-6-CanTrawl2-13, and station_event_id and specimen_id changed to match respectively.
+- In the tab 'Specimen_Info' catch_id IYS2022-NW-2-10-CanTrawl-6 was changed to IYS2022-NW-2-10-CanTrawl2-1, and station_event_id and specimen_id changed to match respectively.
+- In the tab 'Specimen_Info' catch_id IYS2022-NW-2-10-CanTrawl-7 was changed to IYS2022-NW-2-10-CanTrawl2-2, and station_event_id and specimen_id changed to match respectively.
+- In the tab 'Specimen_Info' catch_id IYS2022-NW-2-10-CanTrawl-8 was changed to IYS2022-NW-2-10-CanTrawl2-3, and station_event_id and specimen_id changed to match respectively.
+- In the tab 'Specimen_Info' catch_id IYS2022-NW-2-10-CanTrawl-9 was changed to IYS2022-NW-2-10-CanTrawl2-4, and station_event_id and specimen_id changed to match respectively.
+- In the tab 'Specimen_Info' catch_id IYS2022-NW-2-10-CanTrawl-11 was changed to IYS2022-NW-2-10-CanTrawl2-6, and station_event_id and specimen_id changed to match respectively.
+- In the tab 'Specimen_Info' catch_id IYS2022-NW-2-10-CanTrawl-12 was changed to IYS2022-NW-2-10-CanTrawl2-7, and station_event_id and specimen_id changed to match respectively.
+- In the tab 'Specimen_Info' catch_id IYS2022-NW-2-10-CanTrawl-13 was changed to IYS2022-NW-2-10-CanTrawl2-8, and station_event_id and specimen_id changed to match respectively.
+- In the tab 'Specimen_Info' catch_id IYS2022-NW-2-10-CanTrawl-14 was changed to IYS2022-NW-2-10-CanTrawl2-9, and station_event_id and specimen_id changed to match respectively.
+- In the tab 'Specimen_Info' catch_id IYS2022-NW-2-13-CanTrawl-15 was changed to IYS2022-NW-2-13-CanTrawl2-6, and station_event_id and specimen_id changed to match respectively.
+- In the tab 'Specimen_Info' catch_id IYS2022-NW-2-13-CanTrawl-14 was changed to IYS2022-NW-2-13-CanTrawl2-5, and station_event_id and specimen_id changed to match respectively.
+- In the tab 'Specimen_Info' catch_id IYS2022-NW-2-13-CanTrawl-17 was changed to IYS2022-NW-2-13-CanTrawl2-8, and station_event_id and specimen_id changed to match respectively. 
 
 ### Removed
 - In the tab 'Specimen_Info' the FatMeter 0 values were removed.
