@@ -5,6 +5,16 @@ All notable changes to the IYS2022_NW_Data will be documented in this file. This
 The original data template file (IYS2022_NW_Data_6-21-2022) is stored in a subdirectory ('archived') of the original_data folder.
 The changes made between versions / releases are documented below. 
 
+## [unreleased] 2023-07-10, mod: Tim van der Stap
+
+### Added
+
+### Changed
+
+### Removed
+- Removed the fat reading data columns, as well as the fat reading unit column, from the 'Specimen_Info' tab
+- Removed the rows describing the fat reading data from the 'Data Dictionary' tab.
+
 ## [1.2] 2023-03-13, mod: Tim van der Stap, Andrew Dimond (NOAA). 
 
 On March 13, 2023 we received a new version from Andrew Dimond. This new version (IYS2022_Museum_Comments_Update.xlsx) has been stored in the original_data folder. The previous version has been renamed to IYS2022_NW_Data_v1.1.xlsx and will be stored in a sub-folder ('archived') herein. 
